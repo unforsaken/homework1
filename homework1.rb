@@ -1,14 +1,3 @@
-
-
-def area_of_square (length)
-	area = length * length
-	return area
-end
-
-puts area_of_square (10)
-
-
-
 # homework1
 # 剪刀石頭布
 # 先要使用者輸入剪刀石頭或布的其中一個選項
